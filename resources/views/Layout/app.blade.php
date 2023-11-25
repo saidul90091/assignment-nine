@@ -16,6 +16,8 @@
 
     {{-- bootstrap js link  --}}
     <script src="{{ asset('js/bootstrap/bootstrap.bundle.min.js') }}"></script>
+    {{-- font awsome  --}}
+    <script src="https://kit.fontawesome.com/6b1e1271e2.js" crossorigin="anonymous"></script>
 </body>
 
 </html>
